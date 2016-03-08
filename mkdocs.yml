@@ -1,0 +1,8 @@
+site_name: FTC hooajal 2015/16 Eestis
+copyright: '&copy; 2016 MTÜ Robootika & Andres Mihkelson'
+theme_dir: 'flatly-est'
+pages:
+  - Sissejuhatus: 'index.md'
+  - Riistvara: 'riistvara.md'
+  - Tarkvara: 'tarkvara.md'
+  - Võistlusülesanne: 'ylesanne.md'
